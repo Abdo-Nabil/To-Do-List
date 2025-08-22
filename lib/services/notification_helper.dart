@@ -78,7 +78,6 @@ class NotificationHelper {
         AndroidNotificationDetails(
       'channel id',
       'Basic Notifications',
-      'Notification channel',
       importance: Importance.max,
       priority: Priority.high,
       showWhen: false,
